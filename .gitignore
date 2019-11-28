@@ -12,3 +12,6 @@ peewee_test.db
 closure.so
 lsm.so
 regexp.so
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
